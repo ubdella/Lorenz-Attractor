@@ -1,7 +1,7 @@
 # Lorenz Attractor
-The Lorenz Attractor is a mathematical model that exhibits chaotic behavior, named after the American mathematician and meteorologist Edward Lorenz. It is a set of three ordinary differential equations that describe the motion of a particle in a three-dimensional space.
+The Lorenz Attractor is a mathematical model that exhibits chaotic behavior, named after Edward Lorenz. It's a three-dimensional system of equations that describes the motion of a particle in a chaotic system.
 
-It's a three-dimensional system of equations that describes the motion of a particle in a chaotic system. 
+. 
 The equations are:
 ```:
 dx/dt = σ(y - x)
